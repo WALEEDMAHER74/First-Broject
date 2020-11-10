@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(2, 18, 22);
+}
+
+ul{
+    list-style-type: none;
+    margin-left: 30%;
+    padding: 0px;
+   
+}
+
+ul li{
+    background-color: rgb(0, 0, 0);
+    float: left;
+    width: 15%;
+}
+
+li a{
+    font-family: cursive;
+    font-size: 20px;
+    display: block;
+     color: rgb(140, 148, 150);
+     padding: 8px 0px 8px 30px;
+     text-decoration: none;
+}
+
+li a:hover{
+    background-color: white;
+}
+
+li a:active{
+    color: white;
+    background-color: black;
+}
+img{
+    margin: 5%;
+}
+#imgs{
+    margin-left: 25%;
+}
+
+h1{
+    color: dimgray;
+    font-family: cursive;
+    text-align: center;
+}
+
+#contact{
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+    color: gray;
+}
+
+span{
+    display: block;
+    text-align: end;
+    color: dimgray;
+    font-family: cursive;
+    font-size: 30px;
+}
